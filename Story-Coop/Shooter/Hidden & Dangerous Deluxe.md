@@ -2,12 +2,9 @@
 
 Free Game from http://oldsite.hidden-and-dangerous.net/deluxe/download.php
 
-- Method of Play: LAN Mode over Public IP
-
-- Needs port Forwarding
+- Method of Play: LAN-Mode over Public-IP
+- Needs port forwarding
 - Needs this patch: https://github.com/WJLiddy/HDDMultiplayerPatch
-
-
 
 ## Port forwarding
 
@@ -24,11 +21,11 @@ Go back and click "HOST"
 
 Give your friends your public ipv4 IP. To find it, go to https://www.whatismyip.com/
 
-##  Connect
+##  Connect
 
 Go to "Network-Play"
 then "Online-Options" and select "TCP/IP (Internet, LAN)".
 
-Underneath "TCP-IP Options", put in your Friends public-IP and the choosen port.
+Underneath "TCP-IP Options", put in your Friends public-IP and the chosen port.
 
 Go back and click Connect.
