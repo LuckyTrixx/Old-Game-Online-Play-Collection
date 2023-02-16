@@ -12,6 +12,11 @@ You can choose your own port. I use 2302 - UDP and TCP
 
 ## Connecting
 
+![Important](../../res/important.png)
+
+When Starting the game for the first time, upon entering or hosting a Multiplayer match, a Firewall message will pop up, if the Game can access the firewall.
+Tab out of the Game (Alt + Tab) and give the Permission. If the Game crashes when Tabbing back in, just start it again, your firewall-Choice is saved and you won't be asked again.
+
 ### Host
 
 Go to "Network-Play"
